@@ -1,5 +1,5 @@
   int ldr = A0;		//assigning ldr pin no.
-  int led = 2;		//assigning bulb pin no.
+  int led = 2;		//assigning led pin no.
   
   void setup()
   {
